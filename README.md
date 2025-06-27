@@ -1,6 +1,3 @@
-# RHEL9-Local-Repository
-Local Repository on Red Hat Enterprise Linux 9
-
 # RHEL 9 Local Repository Setup
 
 สคริปต์นี้ใช้สำหรับการตั้งค่า Local Repository บน Red Hat Enterprise Linux 9 โดยใช้ DVD/ISO ที่ mount ผ่าน CD/DVD drive
